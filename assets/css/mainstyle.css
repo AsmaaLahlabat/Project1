@@ -394,18 +394,10 @@ width:530px;
     color: #fff;
     margin: 0 5px;
 }
-.socials div.a1 {
-    background: #3b5998;
+.socials div.a {
+    background: #000;
 }
-.socials div.a2 {
-    background: #55acee;
-}
-.socials div.a3 {
-    background: #bd081c;
-}
-.socials div.a4 {
-    background: #dc4e41;
-}
+
 .socials i {
     font-size: 20px;
 }
